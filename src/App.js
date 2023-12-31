@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
+//fix for goodmerge1 after contibutor fix
 function App() {
   return (
     <div className="App">
